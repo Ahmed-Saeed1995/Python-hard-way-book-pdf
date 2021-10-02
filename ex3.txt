@@ -1,0 +1,28 @@
+#comment first print
+print(" I will noe count my chickens:")
+#counting hens category of chieckens
+print("Hens",25+30/6)
+#compute another type of chiecken
+print("Rossters",100-25*3%4)
+#print to konw me going to count eggs
+print("Now I will count my eggs:")
+#counting eggs
+print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
+#not excuted code
+print("It is true that 3 + 2 < 2 - 7?")
+#Excute anothrt arithmatic operations
+print(3 + 2 < 5 - 7)
+#Asking what is result of 3 and 2
+print("What is 3 + 2?", 3 + 2)
+#Asking what is the result of 5 differ 7
+print("What is 5 - 7?", 5 - 7)
+#print meaningless sentence
+print("Oh, that`s why it`s False")
+#offer another sentence
+print("How about some more.")
+#checking if 5 greater than -2 or not
+print("Is it grater?", 5 > -2)
+#checking if 5 reater than or equal to -2 or not
+print("IS it grater?", 5 >= -2)
+#checking again if 5 less than or qual to -2
+print("Is it less than or equal?", 5 <= -2)

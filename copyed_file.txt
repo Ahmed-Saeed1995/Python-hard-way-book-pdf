@@ -1,0 +1,18 @@
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
+NEW LINE 1 WITHOUT TRUNCATE BUT WITH string format,
+NEW line 2 with string format ******,
+NEW LAST third line 3 without turncate but with string format.
